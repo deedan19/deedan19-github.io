@@ -1,1 +1,3 @@
-# deedan19-github.io
+#StaticWebsite
+
+This is just a static website
